@@ -1,0 +1,24 @@
+# Terraform auto-generated files
+**/.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Sensitive override files (agar kabhi banayein)
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI config (agar kabhi ho)
+.terraformrc
+terraform.rc
+
+# OS-specific
+.DS_Store
+Thumbs.db
